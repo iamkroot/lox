@@ -1,0 +1,8 @@
+[package]
+name = "lox-typeinf"
+version = "0.1.0"
+authors = ["Krut Patel <kroot.patel@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lox-syntax = { path = "../lox-syntax" }
